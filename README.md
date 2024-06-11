@@ -6,7 +6,7 @@
 
 #### step 3: install requirements files
 ##
-=> pip install -r requirements.txt
+__=> pip install -r requirements.txt__
 ##
 #### step 4:run the detect.py using the weight file 
 
